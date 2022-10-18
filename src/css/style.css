@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+section{
+    background: url(../img/1224063.jpeg) center center/cover no-repeat;
+    height: 800px;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+    font-size: 100px;
+}
+
+h2{
+    color: aqua;
+    width: 50px;
+    font-size: 30px;
+    float: left;
+}
+
+img{
+    pointer-events: painted;
+    margin-top: 250px;
+    float: right;
+    width: 200px;
+    height: 200px;
+}
